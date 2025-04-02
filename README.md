@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **NodeJs**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **bhuwan1200@gmail.com**
 
