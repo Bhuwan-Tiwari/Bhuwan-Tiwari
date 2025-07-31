@@ -54,7 +54,7 @@
   <a href="https://swagger.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
   <a href="https://axios-http.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40"/></a>
   <a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
-  <a href="https://render.com/"><img src="https://raw.githubusercontent.com/frzrdev/brand-logos/main/render/render-icon.svg" alt="Render" width="40" height="40"/></a>
+  <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="40"/></a>
   <a href="https://socket.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40"/></a>
 </p>
 
